@@ -132,8 +132,3 @@ by the RDP accountant at the end of each run.
 - Do not expose a personally identifying repository URL in an anonymous
   submission. Use the conference's anonymous artifact mechanism during
   double-blind review.
-
-## License
-
-See [LICENSE](LICENSE). Third-party code and datasets remain subject to their
-respective licenses and terms of use.
