@@ -127,8 +127,3 @@ by the RDP accountant at the end of each run.
 
 - Use `--run_seeds` to reproduce experiments with the seeds reported in the
   paper.
-- Generated datasets, logs, model outputs, and temporary files should not be
-  committed.
-- Do not expose a personally identifying repository URL in an anonymous
-  submission. Use the conference's anonymous artifact mechanism during
-  double-blind review.
