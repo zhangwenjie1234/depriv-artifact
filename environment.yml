@@ -90,4 +90,3 @@ dependencies:
       - typing-extensions==4.15.0
       - tzdata==2025.2
       - zipp==3.19.2
-prefix: /mnt/mydisk/Anaconda3/envs/vfl
